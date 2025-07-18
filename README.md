@@ -17,11 +17,7 @@ Designed for developers who love coding in a clean and stylish environment.
 
 ---
 
-## Preview
 
-![Synthor Dark Theme Screenshot](image.png)
-
----
 
 
 ## 🚀 Installation
