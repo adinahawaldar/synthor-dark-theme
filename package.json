@@ -2,7 +2,7 @@
   "name": "synthor-dark",
   "displayName": "Synthor Dark Theme",
   "description": "A dark VS Code theme with rich, elegant colors.",
-  "version": "0.0.2",  
+  "version": "0.0.4",  
   "publisher": "adinahawaldar",
   "engines": {
     "vscode": "^1.60.0"
