@@ -41,7 +41,7 @@ Designed for developers who love coding in a clean and stylish environment.
 
 If you like this theme, please:  
 ⭐ **Rate it on the [Marketplace](https://marketplace.visualstudio.com/)**  
-🔗 **You can view this project on [GitHub](https://github.com/adinahawaldar/synthor-dark-theme)**
+🔗 **You can view this project on [GitHub](https://github.com/adinahawaldar)**
 
 ---
 
