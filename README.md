@@ -19,7 +19,7 @@ Designed for developers who love coding in a clean and stylish environment.
 ## 🚀 Installation
 
 1. Open **Extensions** in VS Code (`Ctrl + Shift + X` or `Cmd + Shift + X` on Mac)  
-2. Search for **"Synthor Dark"**  
+2. Search for **"Synthor Dark Theme"**  
 3. Click **Install**  
 
 ---
@@ -41,7 +41,7 @@ Designed for developers who love coding in a clean and stylish environment.
 
 If you like this theme, please:  
 ⭐ **Rate it on the [Marketplace](https://marketplace.visualstudio.com/)**  
-🔗 **View or contribute to the project on [GitHub](https://github.com/adinahawaldar/synthor-dark-theme)**  
+🔗 **You can view this project on [GitHub](https://github.com/adinahawaldar/synthor-dark-theme)**
 
 ---
 
@@ -53,4 +53,4 @@ If you like this theme, please:
 
 ## 📄 License
 
-This project is **open source** and available under the [MIT License](LICENSE).
+This project is **open source for personal use** and available under the [MIT License](LICENSE).  
